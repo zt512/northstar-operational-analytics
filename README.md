@@ -1,45 +1,22 @@
 # NorthStar Operational Analytics
 
-## Overview
+This repository contains analytical workflows developed for the NorthStar Urban Mobility and Logistics case study.
 
-This project investigates operational inefficiencies within NorthStar Urban Mobility and Logistics using SQL, R analytics, Python data processing, and MongoDB Atlas.
-
-The project focuses on integrating structured operational data with semi-structured event records to identify delivery failures, customer dissatisfaction, operational incidents, and scalability challenges.
-
----
-
-## Technologies Used
-
+Technologies used:
 - SQL in R
-- R ggplot2
-- Python pandas
+- R visualisation
+- Python analytics
 - MongoDB Atlas
 - PyMongo
-- Google Colab
 
----
-
-## Key Features
-
-- Operational KPI analysis
-- Delivery performance analytics
-- Complaint correlation analysis
-- MongoDB document modelling
-- CRUD operations
-- Query optimisation and indexing
-- Event-history analytics
-
----
-
-## Repository Structure
-
+Repository structure:
 - notebooks/
 - screenshots/
+- data/
 - outputs/
-- report/
 
----
+The project investigates operational inefficiencies, customer dissatisfaction, operational instability, and NoSQL database solutions using MongoDB.
 
-## Author
+# Author
 
 Zain Talib
